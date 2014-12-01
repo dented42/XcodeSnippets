@@ -2,9 +2,9 @@
 // LaTeX style \cdot.
 //
 // IDECodeSnippetCompletionPrefix: cdot
-// IDECodeSnippetCompletionScopes: [TopLevel]
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 5D30F2E2-503B-421E-BEC1-BF14032AF441
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 ·
