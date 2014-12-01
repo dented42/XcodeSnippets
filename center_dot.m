@@ -4,7 +4,7 @@
 // IDECodeSnippetCompletionPrefix: cdot
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: 5D30F2E2-503B-421E-BEC1-BF14032AF441
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 ·
